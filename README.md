@@ -47,10 +47,8 @@ Throughout 2022 and early 2023, we collaborated with the Laboratory on Foundatio
 We believe that, by working on a thorough classification of smart contract vulnerabilities, we can leverage LLM as a powerful technique for vulnerability detection. This would be a new application in the context of vulnerabilities for smart contracts in Solidity, as well as Rust based blockchains.
 
 ## Project proposal URL
-Public repo: 
-https://github.com/CoinFabrik/caist
-CAIST page: 
-https://www.coinfabrik.com/collaborative-artificial-intelligence-security-tool-caist/
+- Public repo: https://github.com/CoinFabrik/caist
+- CAIST page: https://www.coinfabrik.com/collaborative-artificial-intelligence-security-tool-caist/
 
 ## Proposed completion date
 Milestone 1 has a duration of 8 weeks.
